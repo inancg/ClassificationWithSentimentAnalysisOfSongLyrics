@@ -53,7 +53,9 @@ SVC Results
 Correct, False, Accuracy
 
 -Sample Count = 5
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
 
 Morrissey
@@ -78,7 +80,9 @@ Smiths
 
 
 -Sample Count = 10
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
 
 Morrissey
@@ -103,7 +107,9 @@ Smiths
 
 
 -Sample Count = 15
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
 
 Morrissey
@@ -129,11 +135,15 @@ Smiths
 --------------------------------
 
 Linear SVC Results
+
 Correct, False, Accuracy
 
 -Sample Count = 5
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
+
 
 Morrissey
 0.66
@@ -157,7 +167,9 @@ Smiths
 
 
 -Sample Count = 10
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
 
 Morrissey
@@ -182,8 +194,11 @@ Smiths
 
 
 -Sample Count = 15
+
 -Test Count = 500
+
 -Length of Arrays = 66, 66
+
 Morrissey
 0.4607999999999995
 Smiths
