@@ -221,7 +221,7 @@ Smiths
 
 ##Images
 ######SVC where red dots are Morrissey and blue dots are The Smiths
-![alt tag](./img/Linear%20SVC.png)
+![alt tag](./img/SVC.png)
 ######Normalized SVC where red dots are Morrissey and blue dots are The Smiths
 ![alt tag](./img/Normalized%20SVC.png)
 ######Linear SVC where red dots are Morrissey and blue dots are The Smiths
