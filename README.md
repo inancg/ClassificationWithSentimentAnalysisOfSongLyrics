@@ -220,5 +220,15 @@ Smiths
 0.6488000000000013
 
 ##Images
-Images are in the img folder
+######SVC where red dots are Morrissey and blue dots are The Smiths
 ![alt tag](./img/Linear%20SVC.png)
+######Normalized SVC where red dots are Morrissey and blue dots are The Smiths
+![alt tag](./img/Normalized%20SVC.png)
+######Linear SVC where red dots are Morrissey and blue dots are The Smiths
+![alt tag](./img/Linear%20SVC.png)
+######Preprocessed Linear SVC where red dots are Morrissey and blue dots are The Smiths
+![alt tag](./img/PPd%20Linear%20SVC.png)
+######Linear Regression of Morrissey's Lyrics
+![alt tag](./img/LinearRegressionMorrissey.png)
+######Linear Regression of The Smiths' Lyrics
+![alt tag](./img/LinearRegressionTheSmiths.png)
