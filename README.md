@@ -30,17 +30,17 @@ Lyrics used that can't be uploaded here because of the licencing issues. Yet it 
 Lyrics are gathered and formatted as follows
 `[result,positive,negative,neutral]`
 ####Actual Implementation
-######Formatting Songs
+#####Formatting Songs
 The songs are formatted as `[positive,negative,neutral]` for better usability
-######Sampling
+#####Sampling
 n samples were treated (where n is [5,10,15]) as test set, and the rest as the training set.
-######Logging
+#####Logging
 A logging mechanism created to automate the testing process
-######Preprocessing
+#####Preprocessing
 Two preprocessing methods used; *scale* and *normalize*.
 
 Both were tested throughly, results provided in the following Results section.
-######SVM Methods
+#####SVM Methods
 Two different SVM methods used; SVC and LinearSVC
 
 Both were tested throughly, results provided in the following Results section.
@@ -49,13 +49,22 @@ The following commands are used to test these
 
 `
 log_results(raw_smiths,raw_moz,10,5)
+
 log_results(raw_smiths,raw_moz,10,5, preprocessed=True, pp_method=SCALED)
+
 log_results(raw_smiths,raw_moz,10,5, preprocessed=True, pp_method=NORMALIZED)
+
 log_results(raw_smiths,raw_moz,500,10)
+
 log_results(raw_smiths,raw_moz,500,10, preprocessed=True, pp_method=SCALED)
+
 log_results(raw_smiths,raw_moz,500,10, preprocessed=True, pp_method=NORMALIZED)
+
 log_results(raw_smiths,raw_moz,500,15)
+
 log_results(raw_smiths,raw_moz,500,15, preprocessed=True, pp_method=SCALED)
+
 log_results(raw_smiths,raw_moz,500,15, preprocessed=True, pp_method=NORMALIZED)
+
 `
-######Formatting Songs for Grid 
+#####Formatting Songs for Grid 
