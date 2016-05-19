@@ -221,4 +221,4 @@ Smiths
 
 ##Images
 Images are in the img folder
-![alt tag](https://raw.githubusercontent.com/inancg/ML-Project/blob/master/img/Linear%20SVC.png)
+![alt tag](./img/Linear%20SVC.png)
