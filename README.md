@@ -48,13 +48,13 @@ Both were tested throughly, results provided in the following Results section.
 To plot the graphs in 2D, the data is reduced to 2D in this function
 
 ##Test Results
-**Here are the results for tests
+Here are the results for tests. As format : Without Preprocessing, Scaled, Normalized(1d), Normalized(2d)
 SVC Results
 Correct, False, Accuracy
 
 -Sample Count = 5
 -Test Count = 500
--Length of Arrays = 66, 66**
+-Length of Arrays = 66, 66
 
 Morrissey
 0.7312000000000036
@@ -203,3 +203,6 @@ Morrissey
 0.4568000000000006
 Smiths
 0.6488000000000013
+
+##Images
+Images are in the img folder
