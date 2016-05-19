@@ -58,6 +58,13 @@ Correct, False, Accuracy
 
 -Length of Arrays = 66, 66
 
+| Method 					 | Test Count     | Accuracy(M) | Accuracy(S) |
+|:----------------:|:--------------:|:-----------:|:-----------:|
+| No Preprocessing | 500						|  0.73120		|	0.39359			|
+| Scaled					 | 500			      |  0.45319 		| 0.57440			|
+| Normalized(1d)	 | 500				    |  0.42919 		| 0.72080			|
+| Normalized(2d)	 | 500				    |  0.54000		| 0.65999			|
+
 Morrissey
 0.7312000000000036
 Smiths
