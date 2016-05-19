@@ -2,7 +2,7 @@
 Inanc Gurkan, 2016
 
 #Formatting Lyrics
-Lyrics used that can't be uploaded here because of the licencing issues. Yet it is possible to tell the format. Lyrics was in format as follows:
+Lyrics used that can't be uploaded here because of the licencing issues. Yet it is possible to tell the format. Lyrics was in format as follows and without "-" signs(that breaks a functionality of a library):
 
 *Lyrics lyrics lyrics lyrics*
 
@@ -26,3 +26,6 @@ Lyrics used that can't be uploaded here because of the licencing issues. Yet it 
 * sklearn.linear_model.LinearRegression
 
 ##Methods
+####Data Gathering Stage
+Lyrics are gathered and formatted as follows
+`[result,positive,negative,neutral]` 
